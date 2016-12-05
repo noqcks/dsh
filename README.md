@@ -1,6 +1,6 @@
 # dsh
 
-Running a ubuntu shell as the login shell on macOS.
+Running a Ubuntu docker container shell as the login shell for macOS.
 
 ### THIS IS PROBABLY A BAD IDEA CONTINUE AT YOUR OWN RISK LMAO
 
